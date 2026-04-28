@@ -1,0 +1,5 @@
+﻿policy,fill_rate_pct_mean,fill_rate_pct_std,avg_inventory_k_mean,avg_inventory_k_std,holding_k_mean,holding_k_std,ordering_k_mean,ordering_k_std,stockout_k_mean,stockout_k_std,tc_k_mean,tc_k_std,stockout_cycles_per_100_mean,stockout_cycles_per_100_std
+P0,99.62,0.12,7639.99,80.37,1554.05,14.98,1040.5,3.83,418.86,129.13,3013.41,124.62,5.19,1.28
+P1,99.56,0.1,7591.76,77.9,1544.94,14.61,1041.5,3.98,432.2,99.73,3018.64,103.35,7.76,1.18
+P2,99.7,0.08,7882.1,88.35,1596.2,16.36,1042.2,3.89,287.1,98.07,2925.5,91.28,7.29,1.44
+P3,99.91,0.07,8705.49,91.42,1758.35,16.68,1043.1,4.31,88.54,64.11,2889.99,58.27,1.65,0.73
